@@ -1,0 +1,5 @@
+.godot/
+*.before-*
+*.zip
+tools/
+assets/materials/bark/
